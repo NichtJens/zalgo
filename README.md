@@ -45,7 +45,7 @@ In [1]: import zalgo
 
 In [2]: zalgo.exceptions.invoke()
 
-In [3]: raise RuntimeError("To invoke the hive-mind representing chaos.")
+In [3]: raise RuntimeError("Invoking the feeling of chaos.")
 ---------------------------------------------------------------------------
 RuntimeError                              Traceback (most recent call last)
 <ipython-input-3-e1158b16b3c4> in <module>()
