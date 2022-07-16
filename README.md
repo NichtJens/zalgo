@@ -30,10 +30,10 @@ $ python
 ```python
 >>> import zalgo
 >>> zalgo.exceptions.invoke()
->>> raise RuntimeError("Invoking the feeling of chaos.")
+>>> raise RuntimeError("To invoke the hive-mind representing chaos.")
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
-RuntimeError: I̞ͪ̊n͍͙̄v̨ͧ͊ȫ̞ǩ͉͛i̷ͤ͆n̙͈ͪg͂̓̓ tͪ̽̕h͕̓ͬe͆͌͜ f̹̄͆ẹ͆͌e̖͎̓l̲̘̳í͈͗n͙̹͜g̝̐͟ o͏̘̋fͬ̅̊ c͉̠̖h̩̅͟ã̑̊o̫̳ͩṣ̍͞.
+RuntimeError: T̠͔̘̒̈́̈͘o̡̻͈ͭ̎̀͢ i̡̭̮ͦͦ̂̚n̵̢̧͉̖͂ͪv̸̤͔̥̾́̏o̵̡͙̫ͣ̓͞k̴͓͖̜ͬ̇͞ȩ̫͖͑ͬ̂ͫ t͍̃̎ͪ̈́͏̨h̷͙̗̪́͛̔ẽ͔͎̦ͥ̌ͮ h̯̬̣̖ͭͭͣį̤ͤ̀ͨ̃̃v̰̳̬̱͉̟ͅe̷̪͙̥͌͋͜-m̛̰̝̦̬̃ͩi̢̪ͨͮ͘͢ͅṇ̷̛̗̭̇̍dͮ̍ͣ̑̃̃ͅ r̼͖̅̏̇̅̕ę̱͙͆̌ͣ̽p̶̭̬͆̔̂͌r̷̵̻̻ͩ͠͝ê͎̓̾̈͋͝s̸̲̹͋̓ͧͮẹ͚ͪ͛͐͞͞n͕͓̋͊͘͞͡t̼ͧ̐̏̕͟͞ĭ̧̻̪̾ͪ̀n̡̼̰̹̚͜͞g̞̩̳̩̑̂̉ c̵̘̜̯̽͐͗h̙͕̟ͬͧ̿͡ȃ̴͉͍͖̈͡o̲͈̅̂͋͂͆ś̳͙̫ͤͨͨ.
 ```
 
 ```bash
@@ -49,8 +49,8 @@ In [3]: raise RuntimeError("To invoke the hive-mind representing chaos.")
 ---------------------------------------------------------------------------
 RuntimeError                              Traceback (most recent call last)
 <ipython-input-3-e1158b16b3c4> in <module>()
-----> 1 raise RuntimeError("To invoke the hive-mind representing chaos.")
+----> 1 raise RuntimeError("Invoking the feeling of chaos.")
 
-RuntimeError: T̠͔̘̒̈́̈͘o̡̻͈ͭ̎̀͢ i̡̭̮ͦͦ̂̚n̵̢̧͉̖͂ͪv̸̤͔̥̾́̏o̵̡͙̫ͣ̓͞k̴͓͖̜ͬ̇͞ȩ̫͖͑ͬ̂ͫ t͍̃̎ͪ̈́͏̨h̷͙̗̪́͛̔ẽ͔͎̦ͥ̌ͮ h̯̬̣̖ͭͭͣį̤ͤ̀ͨ̃̃v̰̳̬̱͉̟ͅe̷̪͙̥͌͋͜-m̛̰̝̦̬̃ͩi̢̪ͨͮ͘͢ͅṇ̷̛̗̭̇̍dͮ̍ͣ̑̃̃ͅ r̼͖̅̏̇̅̕ę̱͙͆̌ͣ̽p̶̭̬͆̔̂͌r̷̵̻̻ͩ͠͝ê͎̓̾̈͋͝s̸̲̹͋̓ͧͮẹ͚ͪ͛͐͞͞n͕͓̋͊͘͞͡t̼ͧ̐̏̕͟͞ĭ̧̻̪̾ͪ̀n̡̼̰̹̚͜͞g̞̩̳̩̑̂̉ c̵̘̜̯̽͐͗h̙͕̟ͬͧ̿͡ȃ̴͉͍͖̈͡o̲͈̅̂͋͂͆ś̳͙̫ͤͨͨ.
+RuntimeError: I̞ͪ̊n͍͙̄v̨ͧ͊ȫ̞ǩ͉͛i̷ͤ͆n̙͈ͪg͂̓̓ tͪ̽̕h͕̓ͬe͆͌͜ f̹̄͆ẹ͆͌e̖͎̓l̲̘̳í͈͗n͙̹͜g̝̐͟ o͏̘̋fͬ̅̊ c͉̠̖h̩̅͟ã̑̊o̫̳ͩṣ̍͞.
 ```
 
