@@ -24,6 +24,19 @@ H̭͚ͧ͜e͈͚̱ͪ̔ͭ͢ W̡̬̳͔̩̰̹ͤ̀h̶̷̟́̿ͮͤͩ͐o̵̺͋̌ͮ̏̿̍
 ## Exceptions
 
 ```bash
+$ python
+```
+
+```python
+>>> import zalgo
+>>> zalgo.exceptions.invoke()
+>>> raise RuntimeError("Invoking the feeling of chaos.")
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+RuntimeError: I̞ͪ̊n͍͙̄v̨ͧ͊ȫ̞ǩ͉͛i̷ͤ͆n̙͈ͪg͂̓̓ tͪ̽̕h͕̓ͬe͆͌͜ f̹̄͆ẹ͆͌e̖͎̓l̲̘̳í͈͗n͙̹͜g̝̐͟ o͏̘̋fͬ̅̊ c͉̠̖h̩̅͟ã̑̊o̫̳ͩṣ̍͞.
+```
+
+```bash
 $ ipython
 ```
 
